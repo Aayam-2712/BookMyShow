@@ -20,7 +20,7 @@ const movies = [
   {
       id: 1,
       title : "The KERALA Story",
-      img: "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS8xMCAgMTExLjNLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00343918-bcrtrqpgtc-portrait.jpg",
+      img: "https://m.media-amazon.com/images/M/MV5BNTdlNmQ1NzUtYjExMC00MzZjLWE0Y2EtMWQ5NDNjMTdkYzEwXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_.jpg",
       ratings: 9,
       votes: "111.3k",
       likes: "",
@@ -31,7 +31,7 @@ const movies = [
   {
       id: 2,
       title : "X Fast",
-      img: "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MjE1LjZLIGxpa2Vz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00122562-cevyywlfvl-portrait.jpg",
+      img: "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX190_CR0,10,190,281_.jpg",
       ratings: "",
       votes: "",
       likes: "215.6K",
@@ -42,7 +42,7 @@ const movies = [
   {
       id: 3,
       title : "GUARDIAN OF THE GALAXY",
-      img: "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICAyNi45SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00310794-nmwukaluxy-portrait.jpg",
+      img: "https://m.media-amazon.com/images/M/MV5BNDIzMTk4NDYtMjg5OS00ZGI0LWJhZDYtMzdmZGY1YWU5ZGNkXkEyXkFqcGdeQXVyMTI5NzUyMTIz._V1_.jpg",
       ratings: 9.3,
       votes: "26.9K",
       likes: "",
@@ -53,7 +53,7 @@ const movies = [
   {
       id: 4,
       title : "IB71",
-      img: "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MjQuM0sgbGlrZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00312966-aldflcvftk-portrait.jpg",
+      img: "https://upload.wikimedia.org/wikipedia/en/a/a3/IB71_film_poster.jpg",
       ratings: "",
       votes: "",
       likes: "24.3K",
@@ -64,7 +64,7 @@ const movies = [
   {
       id: 5,
       title : "JODI",
-      img: "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4yLzEwICA0SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00118776-mywkpmneqt-portrait.jpg",
+      img: "https://m.media-amazon.com/images/M/MV5BZTI2MDAyMjAtMGZkZC00ZDVjLWI1YWYtMDI0OWIzYjkyZGFlXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
       ratings: 9.2,
       votes: "4K",
       likes: "",
@@ -75,7 +75,7 @@ const movies = [
   {
       id: 6,
       title : "CHATRAPATHI",
-      img: "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny8xMCAgNy4xSyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00355873-ykrbqmsrdb-portrait.jpg",
+      img: "https://static.tnn.in/thumb/msid-100192831,thumbsize-45634,width-1280,height-720,resizemode-75/100192831.jpg",
       ratings: 7,
       votes: "7.1K",
       likes: "",
@@ -86,7 +86,7 @@ const movies = [
   {
       id: 7,
       title : "LOVE AGAIN",
-      img: "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny40LzEwICAxLjFLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00352714-lzrvetqava-portrait.jpg",
+      img: "https://m.media-amazon.com/images/M/MV5BODc0ZDM3MjgtNDA5ZC00MWUwLWJmM2ItMjBmM2YzMjBmNzRkXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
       ratings: 7.4,
       votes: "1.1K",
       likes: "",
@@ -97,7 +97,7 @@ const movies = [
   {
       id: 8,
       title : "EVIL DEAD RISE",
-      img: "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny4xLzEwICAyNi43SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00349309-ynqvrxxagk-portrait.jpg",
+      img: "https://m.media-amazon.com/images/M/MV5BMmZiN2VmMjktZDE5OC00ZWRmLWFlMmEtYWViMTY4NjM3ZmNkXkEyXkFqcGdeQXVyMTI2MTc2ODM3._V1_.jpg",
       ratings: 7.1,
       votes: "26.7K",
       likes: "",
